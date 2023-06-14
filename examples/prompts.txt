@@ -19,3 +19,5 @@ children dressed in chicken costumes - visual_test_11
 a cute baby kitten walking outside in the rain in froggy galoshes --ar 3:2 --v 5.1 - visual_test_12
 
 a teddy bear sitting on a tree stump in a redwood forest surrounded by ferns and mushrooms. High contrast, black and white marker sketch - visual_test_13
+
+a hyper realistic photograph of a futuristic army of clone grandmothers in white armor with their faces clearly visible. All grandmothers are identicall and smiling from ear to ear. POV, HDR, Lens Flare - visual_test_14
